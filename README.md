@@ -1,8 +1,5 @@
-########################################
-**DES modeling for the pyroprocessing system**
-########################################
+# DES modeling for the pyroprocessing system
 
-########################################
 **Discrete event simulation description**
 <br>In DES, each 'event' is a 'vertex.'
 <br>There are state changes and/or parameters associated with a vertex.
@@ -14,8 +11,3 @@
 <br>DES should readily lend itself to the modeling of batch systems like pyroprocessing.
 <br>Python is a natural fit for DES due to its modularity.
 ########################################
-# pyroprocessing_system.model >> readme.md
-git init
-git add readme.md
-got commit -m first commit
-echo # pyroprocessing_system.model
