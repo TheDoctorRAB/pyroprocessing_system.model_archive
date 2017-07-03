@@ -10,4 +10,3 @@
 <br>The edges are dynamic and provide logical relationships between events.
 <br>DES should readily lend itself to the modeling of batch systems like pyroprocessing.
 <br>Python is a natural fit for DES due to its modularity.
-########################################
